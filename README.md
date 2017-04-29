@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to the list of lists.
 
-You can use the [editor on GitHub](https://github.com/Digital44/lists/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Digital44/lists/edit/master/README.md) to modify this site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### General
+- https://www.civicgraph.io/
+- https://knightfoundation.org/features/civictech/
+- https://tech-forward-2.glitch.me/#orgs
 
-### Markdown
+### Physical spaces
+- https://medium.com/@stephanie.santoso/https-medium-com-makers-for-global-good-b19076d586b5
+- http://anansegroup.com/mapping.html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### International development
+- https://www.globalinnovationexchange.org/innovations
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Digital44/lists/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Activism
+- https://www.actionalliance.co/
+- https://techtiv.ist/apps-n-hacks/
+- https://docs.google.com/spreadsheets/d/133PEG_l7snFhKW6j8k3wL5AjkQd3n_kxzyEyHBZlK3o/edit#gid=0
+- http://www.bridgealliance.us/
